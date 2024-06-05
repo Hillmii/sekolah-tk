@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.burger {
+  @apply bg-black w-8 h-[2px] lg:hidden flex;
+}
